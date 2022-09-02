@@ -1,4 +1,4 @@
-# TDVI aplicando programación hpc:
+# TDVI aplicando técnicas de hpc:
 
 Proyecto integrador consiste en aplicar técnicas de paralelismo, concurrencia y optimización en: algún código propio aplicado al área de investigación. 
 Bajo el marco del curso Introducción a la programación HPC con Python y sus aplicaciones al campo de proceso de imágenes - Instituto Gulich - Universidad Nacional de Córdoba 2022. 
@@ -14,9 +14,11 @@ Bajo el marco del curso Introducción a la programación HPC con Python y sus ap
 
 ## **Requerimientos - Librerías necesarias**:
    - [x] multiprocessing
-   - [x] Gdal
-   - [x] 
-   - [x] 
+   - [x] Threading
+   - [x] gdal
+   - [x] numpy
+   - [x] scipy
+   - [x] os
 
 ----  
 
