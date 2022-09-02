@@ -13,8 +13,8 @@ Bajo el marco del curso Introducción a la programación HPC con Python y sus ap
 ----   
 
 ## **Requerimientos - Librerías necesarias**:
-   - [x] 
-   - [x] 
+   - [x] multiprocessing
+   - [x] Gdal
    - [x] 
    - [x] 
 
